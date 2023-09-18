@@ -16,7 +16,7 @@
 - [Actividad: Problemas de regresión](<https://github.com/JoelSolano59/Inteligencia-artificial-avanzada-para-la-ciencia-de-datos-I/tree/794ef63736adfc38a0ea04ab4960136e720115ab/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Actividad%20Problemas%20de%20regresi%C3%B3n>)
 - [Actividad: Problemas de clasificación](<https://github.com/JoelSolano59/Inteligencia-artificial-avanzada-para-la-ciencia-de-datos-I/tree/794ef63736adfc38a0ea04ab4960136e720115ab/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Actividad%20Problemas%20de%20clasificaci%C3%B3n>)
 - [Actividad: Ajuste de redes neuronales](<https://github.com/JoelSolano59/Inteligencia-artificial-avanzada-para-la-ciencia-de-datos-I/tree/794ef63736adfc38a0ea04ab4960136e720115ab/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Actividad%20An%C3%A1lisis%20exploratorio%20con%20t%C3%A9cnicas%20de%20agrupamiento>)
-- [Actividad: Análisis exploratorio con técnicas de agrupamiento](<https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/An%C3%A1lisis%20exploratorio%20con%20t%C3%A9cnicas%20de%20agrupamiento>)
+- [Actividad: Análisis exploratorio con técnicas de agrupamiento](<https://github.com/JoelSolano59/Inteligencia-artificial-avanzada-para-la-ciencia-de-datos-I/tree/bca8bc247a875b0aa214284eee99ec45c3f6f971/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Actividad%20An%C3%A1lisis%20exploratorio%20con%20t%C3%A9cnicas%20de%20agrupamiento>)
 
 ## Evidencia 1. Portafolio de análisis
 
